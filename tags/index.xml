@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hindustani</title>
-      <link>https://snnithya.github.io/tags/hindustani/</link>
+      <title>Hindustani Music</title>
+      <link>https://snnithya.github.io/tags/hindustani-music/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/tags/hindustani/</guid>
+      <guid>https://snnithya.github.io/tags/hindustani-music/</guid>
       <description></description>
     </item>
     
@@ -53,20 +53,20 @@
     </item>
     
     <item>
-      <title>Raga Music</title>
-      <link>https://snnithya.github.io/tags/raga-music/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/tags/raga-music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bollywood</title>
       <link>https://snnithya.github.io/tags/bollywood/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/tags/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion</title>
+      <link>https://snnithya.github.io/tags/fusion/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/fusion/</guid>
       <description></description>
     </item>
     
@@ -103,6 +103,114 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/tags/arrangement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>https://snnithya.github.io/tags/animation/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Original Composition</title>
+      <link>https://snnithya.github.io/tags/original-composition/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/original-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quarantine Absurdity</title>
+      <link>https://snnithya.github.io/tags/quarantine-absurdity/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/quarantine-absurdity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhajan</title>
+      <link>https://snnithya.github.io/tags/bhajan/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/bhajan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawing</title>
+      <link>https://snnithya.github.io/tags/drawing/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmony</title>
+      <link>https://snnithya.github.io/tags/harmony/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/harmony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Detection</title>
+      <link>https://snnithya.github.io/tags/malware-detection/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/malware-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McAfee</title>
+      <link>https://snnithya.github.io/tags/mcafee/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/mcafee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLS</title>
+      <link>https://snnithya.github.io/tags/tls/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/tls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bus Bunching</title>
+      <link>https://snnithya.github.io/tags/bus-bunching/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/bus-bunching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://snnithya.github.io/tags/html/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://snnithya.github.io/tags/visualisation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/visualisation/</guid>
       <description></description>
     </item>
     

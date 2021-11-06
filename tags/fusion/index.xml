@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fusion on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/tags/fusion/</link>
+    <description>Recent content in Fusion on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/fusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Labb Par Aaye - Song &#43; Dance</title>
+      <link>https://snnithya.github.io/portfolio/06_labb_par_aaye/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/06_labb_par_aaye/</guid>
+      <description>This was a fun cover of the song labb par aaye, from the tv series Bandish Bandits, that I did with my friend Anjali Upadhyaya.</description>
+    </item>
+    
+    <item>
+      <title>Waltz for Debby</title>
+      <link>https://snnithya.github.io/portfolio/wfd/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/wfd/</guid>
+      <description>Here is our take on Waltz for Debby by Bill Evans.</description>
+    </item>
+    
+  </channel>
+</rss>

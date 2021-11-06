@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harmony on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/tags/harmony/</link>
+    <description>Recent content in Harmony on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/harmony/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waltz for Debby</title>
+      <link>https://snnithya.github.io/portfolio/wfd/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/wfd/</guid>
+      <description>Here is our take on Waltz for Debby by Bill Evans.</description>
+    </item>
+    
+  </channel>
+</rss>
