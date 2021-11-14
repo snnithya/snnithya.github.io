@@ -2,52 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://snnithya.github.io/portfolio/01_jj/</loc>
+    <loc>https://snnithya.github.io/portfolio/jj/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/portfolio/02_kajri/</loc>
+    <loc>https://snnithya.github.io/portfolio/kajri/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/portfolio/03_piyu_bole/</loc>
+    <loc>https://snnithya.github.io/portfolio/piyu_bole/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/04_roja/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/05_tilak_kamod/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/06_labb_par_aaye/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/07_ullavarushivalaya/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/08_square_wheels/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/09_amma_naanu/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/wfd/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/portfolio/bus_bunching/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/portfolio/tls/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://snnithya.github.io/portfolio/malware_binary/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/gesture_analysis/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/tilak_kamod/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/bus_bunching/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/roja/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/wfd/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/amma_naanu/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/square_wheels/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/dance_rupamu/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/labb_par_aaye/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/ullavarushivalaya/</loc>
+    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/portfolio/appu/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://snnithya.github.io/categories/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/hindustani-music/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/indian-classical-music/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/kajri/</loc>
+    <loc>https://snnithya.github.io/tags/indian-music/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/categories/music/</loc>
@@ -56,64 +62,43 @@
     <loc>https://snnithya.github.io/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/semi-classical-music/</loc>
+    <loc>https://snnithya.github.io/tags/performance/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/tags/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/mir/</loc>
+    <loc>https://snnithya.github.io/tags/publication-and-patent/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/categories/research/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/bollywood/</loc>
+    <loc>https://snnithya.github.io/tags/arrangement/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/tags/art/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/tags/animation/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/tags/fusion/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/cover/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/tags/jazz/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/acapella/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/arrangement/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/animation/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/original-composition/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://snnithya.github.io/tags/quarantine-absurdity/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/tags/original/</loc>
     <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/bhajan/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/drawing/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/harmony/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/malware-detection/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/mcafee/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <loc>https://snnithya.github.io/tags/work-in-progress/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/categories/technical-projects/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/tls/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/about/</loc>
@@ -131,13 +116,7 @@
     <loc>https://snnithya.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/tags/bus-bunching/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/html/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/tags/visualisation/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <loc>https://snnithya.github.io/categories/dance/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
 </urlset>

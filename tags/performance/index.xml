@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/tags/performance/</link>
+    <description>Recent content in Performance on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kajri - Kehenawa Mano O Radha Rani</title>
+      <link>https://snnithya.github.io/portfolio/kajri/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/kajri/</guid>
+      <description>This is a presentation of a kajri (semi-classical song). The lyrics are:</description>
+    </item>
+    
+    <item>
+      <title>Raga Tilak Kamod</title>
+      <link>https://snnithya.github.io/portfolio/tilak_kamod/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/tilak_kamod/</guid>
+      <description>This is a presentation of Raag Tilak Kamod that I recorded recently.</description>
+    </item>
+    
+    <item>
+      <title>Bharathanatyam Dance Performance</title>
+      <link>https://snnithya.github.io/portfolio/dance_rupamu/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/dance_rupamu/</guid>
+      <description>I am a student of Bharathanatyam (Indian classical dance form) under the guidance of Guru P.</description>
+    </item>
+    
+    <item>
+      <title>Ullavarushivalaya - Song for shivaratri</title>
+      <link>https://snnithya.github.io/portfolio/ullavarushivalaya/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/ullavarushivalaya/</guid>
+      <description>This is a song by the poet Basavanna in praise of Lord Shiva.</description>
+    </item>
+    
+  </channel>
+</rss>

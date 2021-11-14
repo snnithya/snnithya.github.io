@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication and Patent on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/tags/publication-and-patent/</link>
+    <description>Recent content in Publication and Patent on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/publication-and-patent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Analysis of Melodic Mode Switching</title>
+      <link>https://snnithya.github.io/portfolio/jj/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/jj/</guid>
+      <description>This work was done with Asawari Keskar and Dr. Preeti Rao at the Digital Audio Processing Lab, IIT Bombay.</description>
+    </item>
+    
+    <item>
+      <title>Detection of Malware in Partially Downloaded Binary Files</title>
+      <link>https://snnithya.github.io/portfolio/malware_binary/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/malware_binary/</guid>
+      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
+    </item>
+    
+  </channel>
+</rss>
