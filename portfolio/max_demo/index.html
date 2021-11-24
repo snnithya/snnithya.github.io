@@ -132,9 +132,9 @@
                     <p>I came across Max/MSP/Jitter about a month ago with the course called <a href="https://www.youtube.com/c/TwistedSignals">Twisted Signals</a> by <a href="https://jessestil.es/">Prof. Jesse Stiles</a>. Inspired by the flexibility of the language, I decided to program a movement based music synthesis program. As a dancer, I wanted to explore the possibility of letting the music follow my lead instead of choreographing my steps to the music. This is demo of the project in it&rsquo;s very initial stages.</p>
 <h3 id="how-it-works">How it works</h3>
 <ul>
-<li>I capture movement from my camera at 500 fps.</li>
-<li>I subtract a 30 ms old frame from the current frame.</li>
-<li>The values in this difference of frames are used to decide the midi note and velocity. Note values increases from the left to the right of the screen and the velocity is determined by how &ldquo;big&rdquo; the movement is.</li>
+<li>I capture movement from my camera at 500 fps. Each frame is captured as a matrix.</li>
+<li>I subtract a 30 ms delayed frame matrix from the current frame matrix in order to capture the movement on an individual.</li>
+<li>The difference of frame matrices are used to decide the midi note value and velocity. Note values increases from the left to the right of the screen and the velocity is determined by how &ldquo;big&rdquo; the movement is.</li>
 </ul>
 <p>All sounds from this demo are produced with <a href="https://labs.spitfireaudio.com/">Spitfire Audio&rsquo;s</a> plugins.</p>
 <figure><img src="max_demo.png"
