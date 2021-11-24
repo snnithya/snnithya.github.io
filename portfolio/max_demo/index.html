@@ -114,110 +114,57 @@
 </header>
 <!-- /navigation -->
 
-
 <section class="section-sm">
     <div class="container">
-
         <div class="row">
-            <div class="col-lg-8 mb-5 mb-lg-0">
-                <div class="row">
-                      <div class="col-md-6 mb-4">
-    <article class="card">
-        
-        <img src="https://snnithya.github.io/images/featured-post/piyu-bole.jpg" class="card-img-top" alt="Piyu Bole - with a jazz twist"> 
-        <div class="card-body px-0">
-            
-            <a href="/categories/music" class="text-primary">Music</a> 
-            <a href="https://snnithya.github.io/portfolio/piyu_bole/" class="h5 d-block my-3">Piyu Bole - with a jazz twist</a>
-            <div class="mb-3 post-meta">
-                <span>By Nithya Shikarpur</span> 
+            <div class="col-lg-8 mx-auto">
                 
-                <span>24 January 2021</span> 
-            </div>
-            <p class="card-text">This is an adaptation of the famous Bollywood song Piyu Bole, from the movie Parineeta with a twist.</p>
-            <a href="https://snnithya.github.io/portfolio/piyu_bole/" class="btn btn-outline-primary">View Post</a>
-        </div>
-    </article>
-</div>  <div class="col-md-6 mb-4">
-    <article class="card">
-        
-        <img src="https://snnithya.github.io/images/post/square_wheels.png" class="card-img-top" alt="Square Wheels"> 
-        <div class="card-body px-0">
-            
-            <a href="/categories/music" class="text-primary">Music</a> 
-            <a href="https://snnithya.github.io/portfolio/square_wheels/" class="h5 d-block my-3">Square Wheels</a>
-            <div class="mb-3 post-meta">
-                <span>By Nithya Shikarpur</span> 
-                
-                <span>18 October 2020</span> 
-            </div>
-            <p class="card-text">Having spent more time stuck at home than was good for me, I was struck by an inspiration to write an jingle for square wheels.</p>
-            <a href="https://snnithya.github.io/portfolio/square_wheels/" class="btn btn-outline-primary">View Post</a>
-        </div>
-    </article>
-</div> 
+                <a href="/categories/music" class="text-primary">Music</a> 
+                <a href="/categories/research" class="text-primary">Research</a> 
+                <h2>Movement Led Music Synthesis Program - Work In Progress</h2>
+                <div class="mb-3 post-meta">
+                    <span>By Nithya Shikarpur</span> 
+                    <span class="border-bottom border-primary px-2 mx-1"></span>
+                    <span>25 November 2019</span> 
                 </div>
-            </div>
-            
-            <div class="col-lg-4">
-    <div class="widgets">
-        
-        <div class="widget">
-            <h4 class="widget-title">Category</h4>
-            <ul class="list-unstyled">
-                <li><a href="/categories/music" class="h4 d-block">Music</a>
-                </li>
-                <li><a href="/categories/research" class="h4 d-block">Research</a>
-                </li>
-                <li><a href="/categories/dance" class="h4 d-block">Dance</a>
-                </li>
-                <li><a href="/categories/technical-projects" class="h4 d-block">Technical projects</a>
-                </li>
-            </ul>
-        </div>
-        
-        <div class="widget">
-            
-            <h4 class="widget-title">About Me</h4>
-            
-            <img src="https://snnithya.github.io/images/author.jpg" alt="" class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4"> 
-            <p>Hi, I am Nithya Shikarpur! I am a musician and a computer scientist.</p>
-            <a href="https://snnithya.github.io/about/" class="btn btn-outline-primary">Know More</a> 
-        </div>
+                
+                <div class="content mb-5">
+                    <p>I came across Max/MSP/Jitter about a month ago with the course called <a href="https://www.youtube.com/c/TwistedSignals">Twisted Signals</a> by <a href="https://jessestil.es/">Prof. Jesse Stiles</a>. Inspired by the flexibility of the language, I decided to program a movement based music synthesis program. As a dancer, I wanted to explore the possibility of letting the music follow my lead instead of choreographing my steps to the music. This is demo of the project in it&rsquo;s very initial stages.</p>
+<h3 id="how-it-works">How it works</h3>
+<ul>
+<li>I capture movement from my camera at 500 fps.</li>
+<li>I subtract a 30 ms old frame from the current frame.</li>
+<li>The values in this difference of frames are used to decide the midi note and velocity. Note values increases from the left to the right of the screen and the velocity is determined by how &ldquo;big&rdquo; the movement is.</li>
+</ul>
+<p>All sounds from this demo are produced with <a href="https://labs.spitfireaudio.com/">Spitfire Audio&rsquo;s</a> plugins.</p>
+<figure><img src="max_demo.png"
+         alt="Screenshot of max patch being used"/><figcaption>
+            <p>Screenshot of max patch being used</p>
+        </figcaption>
+</figure>
 
-        
-        <div class="widget">
-            <h4 class="widget-title">Tag</h4>
-            <ul class="list-inline">
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/animation">Animation</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/arrangement">Arrangement</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/art">Art</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/fusion">Fusion</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/indian-music">Indian music</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/jazz">Jazz</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/original">Original</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/performance">Performance</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/publication-and-patent">Publication and patent</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/quarantine-absurdity">Quarantine absurdity</a></li>
-                <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white" href="/tags/thesis">Thesis</a></li>
-            </ul>
-        </div>
-        
-        
-        
-        
-    </div>
+<h4 id="demo-of-project">Demo of Project</h4>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/qOkOrLdxJJg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Demo video"></iframe>
 </div>
-            
 
-            
-            <div class="col-12 mt-5">
+<h3 id="possible-directions-to-work-in">Possible directions to work in</h3>
+<ul>
+<li>Try to detect the skeleton of a person (possibly using <a href="https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/">OpenPose</a>) and use that data to control the music. This would make the sound more controllable.</li>
+<li>Interact with dancers of different styles and understand their perspective and thoughts</li>
+<li>I want to also experiment with Indian sounds and Indian forms to see how that works.</li>
+</ul>
+<p>I would love to know any thoughts or feedback on this project. Please feel free to shoot me a mail or get in touch on social media :)</p>
+
+                </div>
+
+                
                 
             </div>
         </div>
     </div>
 </section>
-
 
 
 
