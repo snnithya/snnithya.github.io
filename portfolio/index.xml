@@ -44,20 +44,20 @@
     </item>
     
     <item>
-      <title>Malware Detection for IoT devices</title>
-      <link>https://snnithya.github.io/portfolio/tls/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/tls/</guid>
-      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
-    </item>
-    
-    <item>
       <title>Detection of Malware in Partially Downloaded Binary Files</title>
       <link>https://snnithya.github.io/portfolio/malware_binary/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/portfolio/malware_binary/</guid>
+      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
+    </item>
+    
+    <item>
+      <title>Malware Detection for IoT devices</title>
+      <link>https://snnithya.github.io/portfolio/tls/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/tls/</guid>
       <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
     </item>
     
