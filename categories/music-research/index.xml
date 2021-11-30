@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Research on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/categories/music-research/</link>
+    <description>Recent content in Music Research on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/categories/music-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Analysis of Melodic Mode Switching</title>
+      <link>https://snnithya.github.io/portfolio/jj/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/jj/</guid>
+      <description>This work was done with Asawari Keskar and Dr. Preeti Rao at the Digital Audio Processing Lab, IIT Bombay.</description>
+    </item>
+    
+    <item>
+      <title>Movement Led Music Synthesis Program - Work In Progress</title>
+      <link>https://snnithya.github.io/portfolio/max_demo/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/max_demo/</guid>
+      <description>I came across Max/MSP/Jitter about a month ago with the course called Twisted Signals by Prof.</description>
+    </item>
+    
+    <item>
+      <title>Gesture Analysis of Hindustani Singers - Work In Progress</title>
+      <link>https://snnithya.github.io/portfolio/gesture_analysis/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/gesture_analysis/</guid>
+      <description>This work is being done with Dr. Preeti Rao at the Digital Audio Processing Lab, IIT Bombay.</description>
+    </item>
+    
+  </channel>
+</rss>

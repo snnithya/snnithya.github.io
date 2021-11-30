@@ -92,7 +92,7 @@
     <loc>https://snnithya.github.io/tags/jazz/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/categories/research/</loc>
+    <loc>https://snnithya.github.io/categories/music-research/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/tags/performance/</loc>
@@ -101,17 +101,14 @@
     <loc>https://snnithya.github.io/tags/publication-and-patent/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://snnithya.github.io/categories/dance/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://snnithya.github.io/tags/art/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://snnithya.github.io/categories/other-research/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://snnithya.github.io/tags/thesis/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://snnithya.github.io/categories/technical-projects/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://snnithya.github.io/_default/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
@@ -130,5 +127,8 @@
   </url><url>
     <loc>https://snnithya.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://snnithya.github.io/categories/dance/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
 </urlset>
