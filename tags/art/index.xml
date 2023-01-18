@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Piyu Bole - with a jazz twist</title>
+      <link>https://snnithya.github.io/portfolio/piyu_bole/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/piyu_bole/</guid>
+      <description>This is an adaptation of the famous Bollywood song Piyu Bole, from the movie Parineeta with a twist.</description>
+    </item>
+    
+    <item>
       <title>Movement Led Music Synthesis Program - Work In Progress</title>
       <link>https://snnithya.github.io/portfolio/max_demo/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
@@ -17,12 +26,12 @@
     </item>
     
     <item>
-      <title>Piyu Bole - with a jazz twist</title>
-      <link>https://snnithya.github.io/portfolio/piyu_bole/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Appu</title>
+      <link>https://snnithya.github.io/portfolio/appu/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/piyu_bole/</guid>
-      <description>This is an adaptation of the famous Bollywood song Piyu Bole, from the movie Parineeta with a twist.</description>
+      <guid>https://snnithya.github.io/portfolio/appu/</guid>
+      <description>This is a portrait I made of my neighbour&amp;rsquo;s dog - Appu.</description>
     </item>
     
     <item>
@@ -41,15 +50,6 @@
       
       <guid>https://snnithya.github.io/portfolio/amma_naanu/</guid>
       <description>Here are a quick set of drawings I drew on my phone for the song &amp;lsquo;Amma nanu devarane&amp;rsquo; to put an Instagram story.</description>
-    </item>
-    
-    <item>
-      <title>Appu</title>
-      <link>https://snnithya.github.io/portfolio/appu/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/appu/</guid>
-      <description>This is a portrait I made of my neighbour&amp;rsquo;s dog - Appu.</description>
     </item>
     
   </channel>

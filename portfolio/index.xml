@@ -8,6 +8,42 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://snnithya.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Raga classification from vocal performance using multimodal analysis</title>
+      <link>https://snnithya.github.io/portfolio/gesture_analysis/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/gesture_analysis/</guid>
+      <description>Update: This paper won the &amp;lsquo;best special call paper award&amp;rsquo; at ISMIR 2022.</description>
+    </item>
+    
+    <item>
+      <title>Tap Tap Revolution: A study of rhythm reproduction from jazz solos with visual aids</title>
+      <link>https://snnithya.github.io/portfolio/rhythm_visualization/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/rhythm_visualization/</guid>
+      <description>For my HCI course project in Fall 2022, I decided to study the role of visual aids such as piano roll and music notation in aiding the memorization and reproduction of note onset timings in a jazz improvisation with respect to a backing track.</description>
+    </item>
+    
+    <item>
+      <title>Music Program at IME, 17th December 2022</title>
+      <link>https://snnithya.github.io/portfolio/17_dec_ime_program/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/17_dec_ime_program/</guid>
+      <description>Videos from my performance at Indian Music Experience, Bangalore on 17th December, 2022.</description>
+    </item>
+    
+    <item>
+      <title>Piyu Bole - with a jazz twist</title>
+      <link>https://snnithya.github.io/portfolio/piyu_bole/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/piyu_bole/</guid>
+      <description>This is an adaptation of the famous Bollywood song Piyu Bole, from the movie Parineeta with a twist.</description>
+    </item>
+    
+    <item>
       <title>Computational Analysis of Melodic Mode Switching</title>
       <link>https://snnithya.github.io/portfolio/jj/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
@@ -26,75 +62,21 @@
     </item>
     
     <item>
-      <title>Kajri - Kehenawa Mano O Radha Rani</title>
-      <link>https://snnithya.github.io/portfolio/kajri/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <title>Labb Par Aaye - Song &#43; Dance</title>
+      <link>https://snnithya.github.io/portfolio/labb_par_aaye/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/kajri/</guid>
-      <description>This is a presentation of a kajri (semi-classical song). The lyrics are:</description>
+      <guid>https://snnithya.github.io/portfolio/labb_par_aaye/</guid>
+      <description>This was a fun cover of the song labb par aaye, from the tv series Bandish Bandits, that I did with my friend Anjali Upadhyaya.</description>
     </item>
     
     <item>
-      <title>Piyu Bole - with a jazz twist</title>
-      <link>https://snnithya.github.io/portfolio/piyu_bole/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Geidi Prima</title>
+      <link>https://snnithya.github.io/portfolio/geidi_prima/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/piyu_bole/</guid>
-      <description>This is an adaptation of the famous Bollywood song Piyu Bole, from the movie Parineeta with a twist.</description>
-    </item>
-    
-    <item>
-      <title>Detection of Malware in Partially Downloaded Binary Files</title>
-      <link>https://snnithya.github.io/portfolio/malware_binary/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/malware_binary/</guid>
-      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
-    </item>
-    
-    <item>
-      <title>Malware Detection for IoT devices</title>
-      <link>https://snnithya.github.io/portfolio/tls/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/tls/</guid>
-      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
-    </item>
-    
-    <item>
-      <title>Gesture Analysis of Hindustani Singers - Work In Progress</title>
-      <link>https://snnithya.github.io/portfolio/gesture_analysis/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/gesture_analysis/</guid>
-      <description>This work is being done with Dr. Preeti Rao at the Digital Audio Processing Lab, IIT Bombay.</description>
-    </item>
-    
-    <item>
-      <title>Raga Tilak Kamod</title>
-      <link>https://snnithya.github.io/portfolio/tilak_kamod/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/tilak_kamod/</guid>
-      <description>This is a presentation of Raag Tilak Kamod that I recorded recently.</description>
-    </item>
-    
-    <item>
-      <title>Bus Bunching Analysis and Visualisation</title>
-      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
-      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP), Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
-    </item>
-    
-    <item>
-      <title>Roja - Cover</title>
-      <link>https://snnithya.github.io/portfolio/roja/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/roja/</guid>
-      <description>This is an a cappella arrangement of the title track from the film Roja.</description>
+      <guid>https://snnithya.github.io/portfolio/geidi_prima/</guid>
+      <description>I gave vocals for the song Geidi Prima on Trey Kams&#39; album Supermassive!</description>
     </item>
     
     <item>
@@ -116,12 +98,48 @@
     </item>
     
     <item>
-      <title>Waltz for Debby</title>
-      <link>https://snnithya.github.io/portfolio/wfd/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Nari (Woman) - a collaboration with Ronita Mookerji</title>
+      <link>https://snnithya.github.io/portfolio/nari/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/wfd/</guid>
-      <description>Here is our take on Waltz for Debby by Bill Evans.</description>
+      <guid>https://snnithya.github.io/portfolio/nari/</guid>
+      <description>This was a collaboration I did with Ronita Mookerji, a Bangalore based danseuse.</description>
+    </item>
+    
+    <item>
+      <title>Kajri - Kehenawa Mano O Radha Rani</title>
+      <link>https://snnithya.github.io/portfolio/kajri/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/kajri/</guid>
+      <description>This is a presentation of a kajri (semi-classical song). The lyrics are:</description>
+    </item>
+    
+    <item>
+      <title>Raga Tilak Kamod</title>
+      <link>https://snnithya.github.io/portfolio/tilak_kamod/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/tilak_kamod/</guid>
+      <description>This is a presentation of Raag Tilak Kamod that I recorded recently.</description>
+    </item>
+    
+    <item>
+      <title>Appu</title>
+      <link>https://snnithya.github.io/portfolio/appu/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/appu/</guid>
+      <description>This is a portrait I made of my neighbour&amp;rsquo;s dog - Appu.</description>
+    </item>
+    
+    <item>
+      <title>Roja - Cover</title>
+      <link>https://snnithya.github.io/portfolio/roja/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/roja/</guid>
+      <description>This is an a cappella arrangement of the title track from the film Roja.</description>
     </item>
     
     <item>
@@ -134,12 +152,12 @@
     </item>
     
     <item>
-      <title>Nari (Woman) - a collaboration with Ronita Mookerji</title>
-      <link>https://snnithya.github.io/portfolio/nari/</link>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <title>Detection of Malware in Partially Downloaded Binary Files</title>
+      <link>https://snnithya.github.io/portfolio/malware_binary/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/nari/</guid>
-      <description>This was a collaboration I did with Ronita Mookerji, a Bangalore based danseuse.</description>
+      <guid>https://snnithya.github.io/portfolio/malware_binary/</guid>
+      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
     </item>
     
     <item>
@@ -152,21 +170,12 @@
     </item>
     
     <item>
-      <title>Bharathanatyam Dance Performance</title>
-      <link>https://snnithya.github.io/portfolio/dance_rupamu/</link>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Waltz for Debby</title>
+      <link>https://snnithya.github.io/portfolio/wfd/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/dance_rupamu/</guid>
-      <description>I am a student of Bharathanatyam (Indian classical dance form) under the guidance of Guru P.</description>
-    </item>
-    
-    <item>
-      <title>Labb Par Aaye - Song &#43; Dance</title>
-      <link>https://snnithya.github.io/portfolio/labb_par_aaye/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/labb_par_aaye/</guid>
-      <description>This was a fun cover of the song labb par aaye, from the tv series Bandish Bandits, that I did with my friend Anjali Upadhyaya.</description>
+      <guid>https://snnithya.github.io/portfolio/wfd/</guid>
+      <description>Here is our take on Waltz for Debby by Bill Evans.</description>
     </item>
     
     <item>
@@ -179,6 +188,24 @@
     </item>
     
     <item>
+      <title>Malware Detection for IoT devices</title>
+      <link>https://snnithya.github.io/portfolio/tls/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/tls/</guid>
+      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
+    </item>
+    
+    <item>
+      <title>Bus Bunching Analysis and Visualisation</title>
+      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
+      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP), Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
+    </item>
+    
+    <item>
       <title>Mist Of Capricorn (Cover)</title>
       <link>https://snnithya.github.io/portfolio/moc/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
@@ -188,12 +215,12 @@
     </item>
     
     <item>
-      <title>Appu</title>
-      <link>https://snnithya.github.io/portfolio/appu/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Bharathanatyam Dance Performance</title>
+      <link>https://snnithya.github.io/portfolio/dance_rupamu/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/appu/</guid>
-      <description>This is a portrait I made of my neighbour&amp;rsquo;s dog - Appu.</description>
+      <guid>https://snnithya.github.io/portfolio/dance_rupamu/</guid>
+      <description>I am a student of Bharathanatyam (Indian classical dance form) under the guidance of Guru P.</description>
     </item>
     
   </channel>
