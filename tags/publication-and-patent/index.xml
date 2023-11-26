@@ -6,7 +6,25 @@
     <description>Recent content in Publication and Patent on Nithya Shikarpur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/publication-and-patent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/publication-and-patent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tap Tap Revolution: A study of rhythm reproduction from jazz solos with visual aids</title>
+      <link>https://snnithya.github.io/portfolio/rhythm_visualization/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/rhythm_visualization/</guid>
+      <description>For my HCI course project in Fall 2022, I decided to study the role of visual aids such as piano roll and music notation in aiding the memorization and reproduction of note onset timings in a jazz improvisation with respect to a backing track.</description>
+    </item>
+    
+    <item>
+      <title>Raga classification from vocal performance using multimodal analysis</title>
+      <link>https://snnithya.github.io/portfolio/gesture_analysis/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/gesture_analysis/</guid>
+      <description>Update: This paper won the &amp;lsquo;best special call paper award&amp;rsquo; at ISMIR 2022.</description>
+    </item>
+    
     <item>
       <title>Computational Analysis of Melodic Mode Switching</title>
       <link>https://snnithya.github.io/portfolio/jj/</link>
@@ -22,6 +40,15 @@
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/portfolio/malware_binary/</guid>
+      <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
+    </item>
+    
+    <item>
+      <title>Malware Detection for IoT devices</title>
+      <link>https://snnithya.github.io/portfolio/tls/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/tls/</guid>
       <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
     </item>
     

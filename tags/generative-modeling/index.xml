@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative Modeling on Nithya Shikarpur</title>
+    <link>https://snnithya.github.io/tags/generative-modeling/</link>
+    <description>Recent content in Generative Modeling on Nithya Shikarpur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/generative-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Music Generation Experiments</title>
+      <link>https://snnithya.github.io/portfolio/interactive-generation/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/interactive-generation/</guid>
+      <description>Research Abstract In Hindustani music, a tradition of North Indian Classical music, the melody is loosely constrained by the chosen composition but otherwise largely improvised in accordance with the raga grammar which are often realized at different levels of abstraction and conformity [1, 2].</description>
+    </item>
+    
+  </channel>
+</rss>
