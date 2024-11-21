@@ -6,14 +6,25 @@
     <description>Recent content in About Me on Nithya Shikarpur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://snnithya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2024 13:49:23 +0600</lastBuildDate><atom:link href="https://snnithya.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interactive Music Generation Experiments</title>
+      <title>Exploratory Study Of Human-AI Interaction For Hindustani Music</title>
+      <link>https://snnithya.github.io/portfolio/human-ai-interaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/human-ai-interaction/</guid>
+      <description>Paper presented at NeurIPS Creative AI Track 2024.
+Abstract This paper presents a study of participants interacting with and using GaMaDHaNi, a novel hierarchical generative model for Hindustani vocal contours.</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Generative Modeling of Melodic Vocal Contours in Hindustani Classical Music</title>
       <link>https://snnithya.github.io/portfolio/interactive-generation/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/portfolio/interactive-generation/</guid>
-      <description>Research Abstract In Hindustani music, a tradition of North Indian Classical music, the melody is loosely constrained by the chosen composition but otherwise largely improvised in accordance with the raga grammar which are often realized at different levels of abstraction and conformity [ 1 , 2 ].</description>
+      <description>Paper presented at ISMIR 2024.
+Abstract Hindustani music is a performance-driven oral tradition that exhibits the rendition of rich melodic patterns.</description>
     </item>
     
     <item>
@@ -62,24 +73,6 @@
     </item>
     
     <item>
-      <title>Music Performance in MA, USA</title>
-      <link>https://snnithya.github.io/portfolio/boston-program/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/boston-program/</guid>
-      <description>Videos from my performance at a house concert in Framingham, MA on 17th December, 2022.</description>
-    </item>
-    
-    <item>
-      <title>Music Program at IME, 17th December 2022</title>
-      <link>https://snnithya.github.io/portfolio/17_dec_ime_program/</link>
-      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/17_dec_ime_program/</guid>
-      <description>Videos from my performance at Indian Music Experience, Bangalore on 17th December, 2022.</description>
-    </item>
-    
-    <item>
       <title>Movement Led Music Synthesis Program - Work In Progress</title>
       <link>https://snnithya.github.io/portfolio/max_demo/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
@@ -89,12 +82,12 @@
     </item>
     
     <item>
-      <title>Bus Bunching Analysis and Visualisation</title>
-      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Music Performance in MA, USA</title>
+      <link>https://snnithya.github.io/portfolio/boston-program/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
-      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP) , Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
+      <guid>https://snnithya.github.io/portfolio/boston-program/</guid>
+      <description>Videos from my performance at a house concert in Framingham, MA on 17th December, 2022.</description>
     </item>
     
     <item>
@@ -104,6 +97,15 @@
       
       <guid>https://snnithya.github.io/portfolio/sparc_chapter_figs/</guid>
       <description>I helped make generating figures for Chapter 5 - &amp;ldquo;Hindustani Rhythm and Computational Analysis: A Musicological Perspective&amp;rdquo; of the book - &amp;ldquo;Indian Art Music: A Computational Perspective&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Music Program at IME, 17th December 2022</title>
+      <link>https://snnithya.github.io/portfolio/17_dec_ime_program/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/17_dec_ime_program/</guid>
+      <description>Videos from my performance at Indian Music Experience, Bangalore on 17th December, 2022.</description>
     </item>
     
     <item>
@@ -140,6 +142,15 @@
       
       <guid>https://snnithya.github.io/portfolio/labb_par_aaye/</guid>
       <description>This was a fun cover of the song labb par aaye, from the tv series Bandish Bandits, that I did with my friend Anjali Upadhyaya.</description>
+    </item>
+    
+    <item>
+      <title>Bus Bunching Analysis and Visualisation</title>
+      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
+      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP) , Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
     </item>
     
     <item>

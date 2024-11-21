@@ -6,14 +6,25 @@
     <description>Recent content in Music Research on Nithya Shikarpur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/categories/music-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/categories/music-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interactive Music Generation Experiments</title>
+      <title>Exploratory Study Of Human-AI Interaction For Hindustani Music</title>
+      <link>https://snnithya.github.io/portfolio/human-ai-interaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/human-ai-interaction/</guid>
+      <description>Paper presented at NeurIPS Creative AI Track 2024.
+Abstract This paper presents a study of participants interacting with and using GaMaDHaNi, a novel hierarchical generative model for Hindustani vocal contours.</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Generative Modeling of Melodic Vocal Contours in Hindustani Classical Music</title>
       <link>https://snnithya.github.io/portfolio/interactive-generation/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/portfolio/interactive-generation/</guid>
-      <description>Research Abstract In Hindustani music, a tradition of North Indian Classical music, the melody is loosely constrained by the chosen composition but otherwise largely improvised in accordance with the raga grammar which are often realized at different levels of abstraction and conformity [ 1 , 2 ].</description>
+      <description>Paper presented at ISMIR 2024.
+Abstract Hindustani music is a performance-driven oral tradition that exhibits the rendition of rich melodic patterns.</description>
     </item>
     
     <item>

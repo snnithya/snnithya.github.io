@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/categories/other-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bus Bunching Analysis and Visualisation</title>
-      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
-      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP) , Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
-    </item>
-    
-    <item>
       <title>Figures for chapter in SPARC monograph - Indian Art Music: A Computational Perspective</title>
       <link>https://snnithya.github.io/portfolio/sparc_chapter_figs/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
@@ -41,6 +32,15 @@
       
       <guid>https://snnithya.github.io/portfolio/tls/</guid>
       <description>From July 2019 to May 2020, I worked with Dr. Abhishek Tripathi as an intern at McAfee.</description>
+    </item>
+    
+    <item>
+      <title>Bus Bunching Analysis and Visualisation</title>
+      <link>https://snnithya.github.io/portfolio/bus_bunching/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/portfolio/bus_bunching/</guid>
+      <description>During a summer internship at Centre for infrastructure, Sustainable Transportation and Urban Planning (CiSTUP) , Indian Institute of Sciences (IISc), Bangalore from May 2019 - July 2019, I worked on the visualisation and analysis of a phenomenon called bus bunching using data collected from BMTC buses in Bangalore.</description>
     </item>
     
   </channel>

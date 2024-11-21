@@ -6,29 +6,11 @@
     <description>Recent content in Tags on Nithya Shikarpur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Generative Modeling</title>
-      <link>https://snnithya.github.io/tags/generative-modeling/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/tags/generative-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HCI</title>
-      <link>https://snnithya.github.io/tags/hci/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://snnithya.github.io/tags/hci/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snnithya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Indian Music</title>
       <link>https://snnithya.github.io/tags/indian-music/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/tags/indian-music/</guid>
       <description></description>
@@ -40,6 +22,15 @@
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://snnithya.github.io/tags/hci/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/hci/</guid>
       <description></description>
     </item>
     
@@ -58,6 +49,15 @@
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://snnithya.github.io/tags/publication-and-patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Modeling</title>
+      <link>https://snnithya.github.io/tags/generative-modeling/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://snnithya.github.io/tags/generative-modeling/</guid>
       <description></description>
     </item>
     
